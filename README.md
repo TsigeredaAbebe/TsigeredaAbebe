@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TsigeredaAbebe
-- 👀 I’m interested in AI-beased preventive maintenance model development
+- 👀 I’m interested in AI-based preventive maintenance model development
 - 🌱 I’m currently learning MSc in Industrial engineering
-- 💞️ I’m looking to collaborate on AI-beased preventive maintenance model development by using Synthetic data.
+- 💞️ I’m looking to collaborate on AI-based preventive maintenance model development by using Synthetic data.
 - 📫 How to reach me abebetsigereda1@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
